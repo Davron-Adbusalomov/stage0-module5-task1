@@ -34,7 +34,7 @@ public class AlgorithmComplexity {
      * Return the complexity of a binary search.
      */
     public Complexity binarySorting() {
-        return O(log n);
+        return O(logn);
     }
 
     /**
