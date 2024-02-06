@@ -103,7 +103,7 @@ public class ArrayTasks {
      * arr = [[5, 4], [7]]       -> [[7], [4, 5]]
      */
     public int[][] sortRaggedArray(int[][] arr) {
-        int[][] a=new int[][];
+        int[][] a=new int[1][1];
         return a;
     }
 }
