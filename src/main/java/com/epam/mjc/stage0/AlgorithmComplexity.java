@@ -20,7 +20,7 @@ public class AlgorithmComplexity {
      * Return the linear search complexity if the element you are looking for is at the end of the array.
      */
     public Complexity badLinearSearch() {
-        return Complexity.O_1;
+        return Complexity.O_N;
     }
 
     /**
